@@ -15,6 +15,7 @@ pull requests
 
 create new branch 
     - git checkout -b bcit1
-    
+    -git push -u origin newBranch
+
     - show current branch 
         git branch
