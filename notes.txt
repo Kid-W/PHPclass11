@@ -3,3 +3,18 @@ GIT---
 1) git init - create an empty git repository at this file location
 2) git status - shows
 3) git add . - add everythign in directory
+4) git status
+5 git commit -m
+6) git push -u origin master
+
+git long --oneline ---- shows logs of all commites 
+
+Braches ----
+
+pull requests 
+
+create new branch 
+    - git checkout -b bcit1
+    
+    - show current branch 
+        git branch
