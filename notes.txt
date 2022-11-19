@@ -1,0 +1,5 @@
+GIT---
+
+1) git init - create an empty git repository at this file location
+2) git status - shows
+3) git add . - add everythign in directory
